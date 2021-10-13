@@ -32,3 +32,12 @@ stories:
   steps:
   - intent: bot_introduction
   - action: utter_introduction
+- story: astrohouse intro
+  steps:
+  - intent: astrohouse_intro
+  - action: utter_astrohouse_intro
+- story: know zodiac 
+  steps:
+  - intent: know_zodiac
+  - action: utter_know_zodiac
+

@@ -96,3 +96,15 @@ nlu:
   examples: |
     - what is your name?
     - who are you?
+
+- intent: astrohouse_intro
+  examples: |
+    - What is the function of this application?
+    - can you tell me what is the work of this application for the first time?
+    - what can be done by this application?
+
+- intent: know_zodiac
+  examples: |
+    - How do I know my Zodiac sign and Constellation or Naxarta?
+    - how do I know my raasi and naxtra?
+    - Is there any option to know my zodiac sign and naxtra?

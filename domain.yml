@@ -9,6 +9,8 @@ intents:
   - mood_unhappy
   - bot_challenge
   - bot_introduction
+  - astrohouse_intro
+  - know_zodiac
 
 responses:
   utter_greet:
@@ -32,7 +34,7 @@ responses:
 
   utter_introduction:
   - text: "My name is Tara, I am your virtual assistance created by StudyandMasti Team."
-  
+
   utter_astrohouse_intro:
   - text: "By this application you can get the closure results of
           dimensions for build the house. In this app, you can find out good days to start a house, dig for foundation,

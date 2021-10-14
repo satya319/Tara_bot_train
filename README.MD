@@ -25,4 +25,11 @@
  utter_introduction:
   - text: "My name is Tara, I am your virtual assistance created by StudyandMasti Team."
 ```
+* in the `domain.yml` file also add the intent name below the intent list like this:
+````
+intents:
+  - bot_introduction
+  - astrohouse_intro
+  - know_zodiac
+````
 * in the nlu file the questions are asked by the users. In the stories.md file it is for the class name and in the domain.yml file the reply by the bot is present.
